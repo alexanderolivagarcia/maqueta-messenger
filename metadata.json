@@ -1,0 +1,6 @@
+{
+  "name": "UI Mensajería Flotante",
+  "description": "Diseño de interfaz de mensajería moderna con dock flotante de chats e input multicapa con selector dinámico de asuntos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
